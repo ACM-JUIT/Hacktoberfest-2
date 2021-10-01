@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "793746956036",
+    "firebase_url": "https://focus-heuristic-283005.firebaseio.com",
+    "project_id": "focus-heuristic-283005",
+    "storage_bucket": "focus-heuristic-283005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793746956036:android:452f3733b65967f833fa51",
+        "android_client_info": {
+          "package_name": "com.example.my_village"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793746956036-nc4kpncimme7qkb6roo9nefq8jkt34k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8RgsEIdmS-cFJ5759CAgaGJ4AdgB8qVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793746956036-nc4kpncimme7qkb6roo9nefq8jkt34k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
