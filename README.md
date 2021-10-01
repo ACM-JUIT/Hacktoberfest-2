@@ -18,6 +18,8 @@ Create your very first pull request to any public repository on GitHub and contr
 * Create a folder with your own name and add the code in this folder.     
 * Send a Pull Request.     
 
+Happy Hacking!
+
 ## Reference Links     
 
 Syncing a Fork: [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
